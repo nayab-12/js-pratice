@@ -1,2 +1,3 @@
-console.log("nayab");
+console.log("ghulam");
+
 
